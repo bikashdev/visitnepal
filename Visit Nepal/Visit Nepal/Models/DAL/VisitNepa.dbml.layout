@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="VisitNepa">
+  <DataContextMoniker Name="/VisitNepaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="3ee0497e-b68c-4a88-9015-f0571801b8e9" absoluteBounds="0.5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/VisitNepaDataContext/Article" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb5f0ff4-9ce6-4e35-b20c-178e930546c1" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
