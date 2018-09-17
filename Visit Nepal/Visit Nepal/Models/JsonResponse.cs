@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace Visit_Nepal.App_Code
+namespace Visit_Nepal
 {
     public class JsonResponse
     {

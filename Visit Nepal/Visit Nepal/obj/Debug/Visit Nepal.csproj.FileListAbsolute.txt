@@ -1,5 +1,4 @@
 C:\Users\BG\Desktop\Project Visit Nepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.csprojResolveAssemblyReference.cache
-D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.csprojResolveAssemblyReference.cache
 D:\visitnepal\Visit Nepal\Visit Nepal\bin\ApplicationInsights.config
 D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\csc.exe
 D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -76,5 +75,6 @@ D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Google.xml
 D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Twitter.xml
 D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.csprojResolveAssemblyReference.cache
 D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.dll
 D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.pdb

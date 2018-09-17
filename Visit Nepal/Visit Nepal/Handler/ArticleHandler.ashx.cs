@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.SessionState;
+using Visit_Nepal.Models.BLL;
 //using App_Code.JsonResponse;
 
 namespace Visit_Nepal.Handler
@@ -50,6 +51,15 @@ namespace Visit_Nepal.Handler
         {
             JsonResponse _response = new JsonResponse();
             System.Web.Script.Serialization.JavaScriptSerializer jSearializer = new System.Web.Script.Serialization.JavaScriptSerializer();
+            try
+            {
+                object obj = jSearializer.Deserialize(data.ToString(), typeof(Article)); 
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
             return "";
         }
         public bool IsReusable
