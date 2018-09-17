@@ -1,1 +1,80 @@
 C:\Users\BG\Desktop\Project Visit Nepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.csprojResolveAssemblyReference.cache
+D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.csprojResolveAssemblyReference.cache
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\ApplicationInsights.config
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\csc.exe
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\System.Collections.Immutable.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\System.Reflection.Metadata.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\vbc.exe
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\VBCSCompiler.exe
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\roslyn\VBCSCompiler.exe.config
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Visit Nepal.dll.config
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Visit Nepal.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Visit Nepal.pdb
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Antlr3.Runtime.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\AspNet.ScriptManager.bootstrap.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\AspNet.ScriptManager.jQuery.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\EntityFramework.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\EntityFramework.SqlServer.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.DependencyCollector.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.Web.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.WindowsServer.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.ApplicationInsights.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Google.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.ScriptManager.WebForms.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Web.Infrastructure.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Newtonsoft.Json.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Owin.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\System.Web.Optimization.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\System.Web.Providers.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\WebGrease.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.DependencyCollector.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.Web.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AI.WindowsServer.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.ApplicationInsights.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\System.Web.Optimization.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Antlr3.Runtime.pdb
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Newtonsoft.Json.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\EntityFramework.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\EntityFramework.SqlServer.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\System.Web.Providers.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Google.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.dll
+D:\visitnepal\Visit Nepal\Visit Nepal\obj\Debug\Visit Nepal.pdb

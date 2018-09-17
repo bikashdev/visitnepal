@@ -22,7 +22,7 @@ namespace Visit_Nepal.Models.DAL
 	using System;
 	
 	
-	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="VisitNepal")]
+	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="VisitNepa")]
 	public partial class VisitNepaDataContext : System.Data.Linq.DataContext
 	{
 		
@@ -36,7 +36,7 @@ namespace Visit_Nepal.Models.DAL
     #endregion
 		
 		public VisitNepaDataContext() : 
-				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["VisitNepalConnectionString"].ConnectionString, mappingSource)
+				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["VisitNepaConnectionString"].ConnectionString, mappingSource)
 		{
 			OnCreated();
 		}
@@ -74,7 +74,7 @@ namespace Visit_Nepal.Models.DAL
 		}
 	}
 	
-	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Articles")]
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Article")]
 	public partial class Article : INotifyPropertyChanging, INotifyPropertyChanged
 	{
 		
@@ -92,6 +92,8 @@ namespace Visit_Nepal.Models.DAL
 		
 		private System.DateTime _InfoUpdateDate;
 		
+		private int _Status;
+		
     #region Extensibility Method Definitions
     partial void OnLoaded();
     partial void OnValidate(System.Data.Linq.ChangeAction action);
@@ -108,6 +110,8 @@ namespace Visit_Nepal.Models.DAL
     partial void OnInfoSourceChanged();
     partial void OnInfoUpdateDateChanging(System.DateTime value);
     partial void OnInfoUpdateDateChanged();
+    partial void OnStatusChanging(int value);
+    partial void OnStatusChanged();
     #endregion
 		
 		public Article()
@@ -231,6 +235,26 @@ namespace Visit_Nepal.Models.DAL
 					this._InfoUpdateDate = value;
 					this.SendPropertyChanged("InfoUpdateDate");
 					this.OnInfoUpdateDateChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Status", DbType="Int NOT NULL")]
+		public int Status
+		{
+			get
+			{
+				return this._Status;
+			}
+			set
+			{
+				if ((this._Status != value))
+				{
+					this.OnStatusChanging(value);
+					this.SendPropertyChanging();
+					this._Status = value;
+					this.SendPropertyChanged("Status");
+					this.OnStatusChanged();
 				}
 			}
 		}
