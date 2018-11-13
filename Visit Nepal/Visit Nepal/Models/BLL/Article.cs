@@ -18,12 +18,31 @@ namespace Visit_Nepal.Models.BLL
 
         #endregion
         #region functions
-        public string AddArticle()
-        {                                
-            using(VisitNepaDataContext db = new VisitNepaDataContext())
+        public string AddArticle(Article article)
+        {
+            try
             {
+                using (VisitNepaDataContext db = new VisitNepaDataContext())
+                {
+                    Visit_Nepal.Models.DAL.Article dbArticle = new Visit_Nepal.Models.DAL.Article()
+                    {
+                        InfoBody = article.InfoBody,
+                        InfoCategory = article.InfoCategory,
+                        InfoID = article.InfoId,
+                        InfoSource = article.InfoSource,
+                        InfoTitle = article.InfoTitle,
+                        InfoUpdateDate = Convert.ToDateTime(article.InfoUpdateDate),
+                    };
 
+                    db.Articles.InsertOnSubmit(dbArticle);
+                    db.SubmitChanges();
+                }
             }
+            catch (Exception ex)
+            {
+                throw ex;
+            }          
+            
             return "";
 
         }
